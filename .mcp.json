@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "screenshotone": {
+      "type": "http",
+      "url": "https://mcp.screenshotone.com"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "screenshotone",
+  "version": "0.1.0",
+  "description": "Capture website screenshots, extract clean Markdown, and check ScreenshotOne usage through the hosted MCP server.",
+  "author": {
+    "name": "ScreenshotOne",
+    "email": "support@screenshotone.com",
+    "url": "https://screenshotone.com"
+  },
+  "homepage": "https://screenshotone.com/docs/mcp/",
+  "repository": "https://github.com/screenshotone/screenshotone-claude-plugin",
+  "license": "MIT",
+  "keywords": ["screenshots", "websites", "markdown", "mcp", "screenshotone"]
+}
